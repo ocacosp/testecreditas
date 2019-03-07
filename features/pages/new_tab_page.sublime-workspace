@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"respos",
+				"response"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"A",
+				"Add"
+			],
+			[
+				"cli",
+				"click_button"
+			],
+			[
+				"ca",
+				"Capybara"
+			],
+			[
+				"req",
+				"require"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/tools/Cmder/Creditas/features/step_definitions/HTTParty.rb",
+		"/C/tools/Cmder/Creditas/features/specs/api.feature",
+		"/C/tools/Cmder/Creditas/features/specs/Buscar_posts.feature",
+		"/C/tools/Cmder/Creditas/features/step_definitions/api_steps.rb",
+		"/C/tools/Cmder/Creditas/features/step_definitions/busca_post_steps.rb",
+		"/C/tools/Cmder/Creditas/features/step_definitions/api_steps",
+		"/C/tools/Cmder/Creditas/features/step_definitions/busca_post_steps",
+		"/C/tools/Cmder/Creditas/features/step_definitions/dynamic_controls_steps.rb",
+		"/C/tools/Cmder/Creditas/Gemfile",
+		"/C/tools/Cmder/Creditas/features/support/env.rb",
+		"/C/tools/Cmder/creditas_080219/features/step_definitions/adicionar.remover.rb",
+		"/C/tools/Cmder/Creditas/features/specs/new_tab.feature",
+		"/C/tools/Cmder/Creditas/features/pages/dynamic_controls_page.rb",
+		"/C/tools/Cmder/Creditas/features/specs/login.feature",
+		"/C/tools/Cmder/Creditas/features/specs/dynamic_controls.feature",
+		"/C/tools/Cmder/creditas_080219/features/specs/adicionar_remover.feature",
+		"/C/tools/Cmder/creditas_080219/features/specs/enable_disable.feature",
+		"/C/tools/Cmder/creditas_080219/features/support/env.rb",
+		"/C/tools/Cmder/creditas_080219/features/support/hooks.rb",
+		"/C/tools/Cmder/creditas_080219/features/step_definitions/enable_disable_steps.rb",
+		"/C/tools/Cmder/creditas_080219/features/step_definitions/adicionar_remover.rb",
+		"/C/Users/Inmetrics/Desktop/Dados automação/feature/adicionar_remover.feature",
+		"/C/Users/Inmetrics/Desktop/Dados automação/feature/login.feature",
+		"/C/tools/Cmder/creditas_080219/Gemfile",
+		"/C/tools/Cmder/creditas_080219/cucumber.yml",
+		"/C/tools/Cmder/creditas_080219/Gemfile.lock",
+		"/C/tools/Cmder/creditas_080219/Rakefile",
+		"/C/tools/Cmder/creditas_080219/features/specs/buscar_agencia.feature",
+		"/C/tools/Cmder/creditas_080219/features/step_definitions/buscar_agencias_steps.rb",
+		"/C/tools/Cmder/creditas_080219/features/buscar_agencia.feature",
+		"/C/tools/Cmder/creditas_080219/features/login.feature",
+		"/C/tools/Cmder/creditas_080219/features/adicionar_remover.feature",
+		"/C/tools/Cmder/creditas_080219/features/enable_disable.feature",
+		"/C/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cucumber-3.1.2/lib/cucumber/glue/step_definition.rb",
+		"/C/tools/Cmder/creditas_080219/features/step_definitions/login_steps.rb",
+		"/C/tools/Cmder/creditas_080219/features/automacao_testes_funcionais.feature"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "new_tab_page.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
